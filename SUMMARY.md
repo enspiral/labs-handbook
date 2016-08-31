@@ -8,5 +8,6 @@
    * [Cultural Tech](culture_&_tools/cultural_tech.md)
 * [Agreements](agreements/readme.md)
    * [Financial Agreement](agreements/financial_agreement.md)
+   * Steward Agreement
 * [More Info](more_info/readme.md)
 
