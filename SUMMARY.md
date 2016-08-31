@@ -8,6 +8,6 @@
    * [Cultural Tech](culture_&_tools/cultural_tech.md)
 * [Agreements](agreements/readme.md)
    * [Financial Agreement](agreements/financial_agreement.md)
-   * [Decision Agreement](agreements/decision_agreement.md/decision_agreement.md)
+   * [Decision Agreement](agreements/decision_agreement.md/decisionagreement_md.md)
 * [More Info](more_info/readme.md)
 
