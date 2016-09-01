@@ -1,4 +1,4 @@
-# Our Purpose & Values
+# Purpose & Values
 
 To contribute to the global commons while creating livelihoods by prototyping and scaling high impact products and ventures. 
 
