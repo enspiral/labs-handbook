@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [FAQ](faq.md)
 * [Context](context/readme.md)
    * [Vision](context/vision.md)
 * [Culture & Tools](culture_&_tools/readme.md)
