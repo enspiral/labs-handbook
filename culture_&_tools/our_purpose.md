@@ -2,7 +2,7 @@
 
 To contribute to the global commons while creating livelihoods by prototyping and scaling high impact products and ventures. 
 
-We value long lasting partnerships, open communication, autonomy and co-creation. We also value financial security for our members so they have the freedom to make long term bets and take the risks needed for innovation.
+We value long lasting partnerships, open communication, autonomy and co-creation. We value financial security for our members so that they have the freedom to make long-term investments and take the risks needed for innovation.
 
 ## Values
 
